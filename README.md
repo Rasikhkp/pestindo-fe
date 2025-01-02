@@ -1,6 +1,6 @@
 # Frontend for Pestindo ERP Project
 
-see the live production here [https://pestindo-fe.vercel.app/](https://pestindo-fe.vercel.app/)
+see the live production here [https://pestindo-admin.vercel.app/](https://pestindo-admin.vercel.app/)
 
 ## Requirements
 
