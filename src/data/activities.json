@@ -1,0 +1,21 @@
+{
+  "activities": [
+    {
+      "id": "ACT001",
+      "description": "Melakukan survey lokasi di PT ABC untuk pemasangan perangkap tikus",
+      "images": [
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c5"
+      ],
+      "createdAt": "2024-03-15T08:00:00Z"
+    },
+    {
+      "id": "ACT002",
+      "description": "Maintenance rutin sistem pest control di Gedung XYZ",
+      "images": [
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c6"
+      ],
+      "createdAt": "2024-03-15T09:30:00Z"
+    }
+  ]
+}

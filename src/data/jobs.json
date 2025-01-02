@@ -1,0 +1,37 @@
+{
+  "jobs": [
+    {
+      "id": "JOB001",
+      "type": "pest_control",
+      "customerId": "CUS001",
+      "customerName": "John Doe",
+      "isNew": false,
+      "poNumber": "PO/2024/001",
+      "spkNumber": "SPK/2024/001",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "monthlyValue": 2000000,
+      "totalValue": 24000000,
+      "visitsPerMonth": 2,
+      "pic": {
+        "name": "Jane Smith",
+        "phone": "081234567890"
+      },
+      "financePic": {
+        "name": "Bob Wilson",
+        "phone": "081234567891"
+      },
+      "team": {
+        "creativeLeadId": "CL001",
+        "officeLeadId": "OL001",
+        "employedLeadId": "EL001",
+        "salesId": "SL001"
+      },
+      "status": "in_progress",
+      "documents": [],
+      "technicianReports": [],
+      "usedItems": [],
+      "createdAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

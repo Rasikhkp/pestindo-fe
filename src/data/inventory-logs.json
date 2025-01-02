@@ -1,0 +1,22 @@
+{
+  "logs": [
+    {
+      "id": "LOG001",
+      "itemId": "INV001",
+      "itemName": "Pestisida A",
+      "quantity": 10,
+      "type": "in",
+      "timestamp": "2024-03-15T08:00:00Z",
+      "createdAt": "2024-03-15T08:00:00Z"
+    },
+    {
+      "id": "LOG002",
+      "itemId": "INV002",
+      "itemName": "Perangkap Tikus",
+      "quantity": 5,
+      "type": "out",
+      "timestamp": "2024-03-15T09:30:00Z",
+      "createdAt": "2024-03-15T09:30:00Z"
+    }
+  ]
+}

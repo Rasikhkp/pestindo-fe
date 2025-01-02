@@ -1,0 +1,88 @@
+{
+  "customers": [
+    {
+      "id": "CUS001",
+      "type": "individual",
+      "name": "John Doe",
+      "identityNumber": "3273032801880001",
+      "phone": "081234567890",
+      "totalJobs": 5,
+      "createdAt": "2024-02-20T08:00:00Z",
+      "legalAddress": {
+        "provinceId": "32",
+        "regencyId": "3273",
+        "districtId": "327301",
+        "details": "Jl. Sukajadi No. 123"
+      },
+      "currentAddress": {
+        "provinceId": "32",
+        "regencyId": "3273",
+        "districtId": "327301",
+        "details": "Jl. Sukajadi No. 123"
+      }
+    },
+    {
+      "id": "CUS002",
+      "type": "company",
+      "name": "ABC Corporation",
+      "identityNumber": "01.234.567.8-123.000",
+      "phone": "081298765432",
+      "totalJobs": 12,
+      "createdAt": "2024-02-19T10:30:00Z",
+      "legalAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Sudirman No. 45"
+      },
+      "currentAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Sudirman No. 45"
+      }
+    },
+    {
+      "id": "CUS003",
+      "type": "company",
+      "name": "Tech Solutions Ltd",
+      "identityNumber": "02.345.678.9-234.000",
+      "phone": "081345678901",
+      "totalJobs": 8,
+      "createdAt": "2024-02-18T09:15:00Z",
+      "legalAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Gatot Subroto No. 78"
+      },
+      "currentAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Gatot Subroto No. 78"
+      }
+    },
+    {
+      "id": "CUS004",
+      "type": "individual",
+      "name": "Sarah Johnson",
+      "identityNumber": "3171032901900002",
+      "phone": "081456789012",
+      "totalJobs": 3,
+      "createdAt": "2024-02-17T11:45:00Z",
+      "legalAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Thamrin No. 90"
+      },
+      "currentAddress": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Thamrin No. 90"
+      }
+    }
+  ]
+}

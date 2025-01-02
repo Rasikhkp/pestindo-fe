@@ -1,0 +1,49 @@
+{
+  "orders": [
+    {
+      "id": "ORD001",
+      "supplierId": "SUP001",
+      "supplierName": "PT Maju Jaya",
+      "items": [
+        {
+          "itemId": "INV001",
+          "itemName": "Pestisida A",
+          "quantity": 50,
+          "price": 200000,
+          "receivedQuantity": 50
+        },
+        {
+          "itemId": "INV002",
+          "itemName": "Perangkap Tikus",
+          "quantity": 100,
+          "price": 50000,
+          "receivedQuantity": 100
+        }
+      ],
+      "totalItems": 150,
+      "totalPrice": 15000000,
+      "receivedPercentage": 100,
+      "status": "completed",
+      "createdAt": "2024-03-01T08:00:00Z"
+    },
+    {
+      "id": "ORD002",
+      "supplierId": "SUP002",
+      "supplierName": "CV Berkah Abadi",
+      "items": [
+        {
+          "itemId": "INV003",
+          "itemName": "Insektisida B",
+          "quantity": 30,
+          "price": 150000,
+          "receivedQuantity": 15
+        }
+      ],
+      "totalItems": 30,
+      "totalPrice": 4500000,
+      "receivedPercentage": 50,
+      "status": "processing",
+      "createdAt": "2024-03-10T09:30:00Z"
+    }
+  ]
+}

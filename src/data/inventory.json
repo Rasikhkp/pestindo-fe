@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "INV001",
+      "name": "Pestisida A",
+      "price": 250000,
+      "stock": 50,
+      "unit": "Liter",
+      "createdAt": "2024-01-15T08:00:00Z"
+    },
+    {
+      "id": "INV002",
+      "name": "Perangkap Tikus",
+      "price": 75000,
+      "stock": 100,
+      "unit": "Unit",
+      "createdAt": "2024-01-20T09:30:00Z"
+    },
+    {
+      "id": "INV003",
+      "name": "Insektisida B",
+      "price": 180000,
+      "stock": 30,
+      "unit": "Liter",
+      "createdAt": "2024-02-01T10:15:00Z"
+    }
+  ]
+}

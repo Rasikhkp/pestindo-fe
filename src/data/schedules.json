@@ -1,0 +1,39 @@
+{
+  "schedules": [
+    {
+      "id": "SCH001",
+      "jobId": "JOB001",
+      "customerId": "CUS001",
+      "customerName": "John Doe",
+      "date": "2024-03-15",
+      "employees": [
+        {
+          "id": "EMP001",
+          "name": "John Smith",
+          "position": "technician"
+        },
+        {
+          "id": "EMP002",
+          "name": "Jane Wilson",
+          "position": "supervisor"
+        }
+      ],
+      "createdAt": "2024-03-01T08:00:00Z"
+    },
+    {
+      "id": "SCH002",
+      "jobId": "JOB002",
+      "customerId": "CUS002",
+      "customerName": "ABC Corporation",
+      "date": "2024-03-20",
+      "employees": [
+        {
+          "id": "EMP003",
+          "name": "Mike Johnson",
+          "position": "technician"
+        }
+      ],
+      "createdAt": "2024-03-02T09:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "requests": [
+    {
+      "id": "REQ001",
+      "employeeId": "EMP001",
+      "employeeName": "John Smith",
+      "type": "check_out",
+      "status": "pending",
+      "items": [
+        {
+          "itemId": "INV001",
+          "itemName": "Pestisida A",
+          "quantity": 2
+        },
+        {
+          "itemId": "INV002",
+          "itemName": "Perangkap Tikus",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2024-03-15T08:00:00Z"
+    },
+    {
+      "id": "REQ002",
+      "employeeId": "EMP002",
+      "employeeName": "Jane Wilson",
+      "type": "check_in",
+      "status": "approved",
+      "items": [
+        {
+          "itemId": "INV003",
+          "itemName": "Insektisida B",
+          "quantity": 3
+        }
+      ],
+      "createdAt": "2024-03-15T09:30:00Z"
+    }
+  ]
+}

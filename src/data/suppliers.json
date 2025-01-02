@@ -1,0 +1,30 @@
+{
+  "suppliers": [
+    {
+      "id": "SUP001",
+      "name": "PT Maju Jaya",
+      "phone": "081234567890",
+      "address": {
+        "provinceId": "31",
+        "regencyId": "3171",
+        "districtId": "317101",
+        "details": "Jl. Sudirman No. 123"
+      },
+      "totalOrders": 15,
+      "createdAt": "2024-01-15T08:00:00Z"
+    },
+    {
+      "id": "SUP002",
+      "name": "CV Berkah Abadi",
+      "phone": "081298765432",
+      "address": {
+        "provinceId": "32",
+        "regencyId": "3273",
+        "districtId": "327301",
+        "details": "Jl. Asia Afrika No. 45"
+      },
+      "totalOrders": 8,
+      "createdAt": "2024-01-20T10:30:00Z"
+    }
+  ]
+}

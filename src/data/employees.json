@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "John Doe",
+      "nik": "3273032801880001",
+      "email": "john.doe@company.com",
+      "phone": "081234567890",
+      "position": "manager",
+      "legalAddress": {
+        "provinceId": "32",
+        "regencyId": "3273",
+        "districtId": "327301",
+        "details": "Jl. Sukajadi No. 123"
+      },
+      "currentAddress": {
+        "provinceId": "32",
+        "regencyId": "3273",
+        "districtId": "327301",
+        "details": "Jl. Sukajadi No. 123"
+      },
+      "createdAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
