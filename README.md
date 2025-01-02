@@ -1,5 +1,7 @@
 # Frontend for Pestindo ERP Project
 
+see the live production here [https://pestindo-fe.vercel.app/](https://pestindo-fe.vercel.app/)
+
 ## Requirements
 
 Make sure you have the following installed on your system:
